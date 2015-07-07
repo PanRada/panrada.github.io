@@ -18,7 +18,7 @@
 	}
 
 	body {
-		background: white;
+		background: #e8eae9;
 		overflow: hidden;
 	}
 
@@ -361,7 +361,7 @@
 
 					#header nav a:hover:before {
 						background-color: rgba(255, 255, 255, 0.175);
-						color: white;
+						color: #3b3c3b;
 					}
 
 				#header nav a:active {
@@ -371,7 +371,7 @@
 
 					#header nav a:active:before {
 						background-color: rgba(255, 255, 255, 0.35);
-						color: white;
+						color: #3b3c3b;
 					}
 
 				#header nav a span {
